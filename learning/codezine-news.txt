@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../../../../../css/rss/feedRss2.xsl" media="screen" type="text/xsl"?>
+
+<rss version="2.0"> 
+  <channel> 
+    <title>CodeZine</title>  
+    <link>http://codezine.jp/</link>  
+    <copyright>Copyright 2007-2008 CodeZine, Shoeisha Co., Ltd. All rights reserved.</copyright>  
+    <language>ja-JP</language>  
+    <pubDate>Tue, 30 Dec 2014 16:43:06 +0900</pubDate>  
+    <description>プログラミングに役立つソースコードが満載な開発者のための実装系Webマガジン</description>  
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="self" href="http://rss.rssad.jp/rss/codezine/new/20/index.xml" type="application/rss+xml"/>  
+    <item> 
+      <title>「正規表現と任意の1文字」　～マンガでプログラミング用語解説</title>  
+      <link>http://rss.rssad.jp/rss/artclk/DlzMEkU2485N/d1f3c8c2dc990d44afdc7578989d2d18?ul=edRvGIUUHKhJkLG7A3VPkjtQDyLGm5YhRbZmrhjEZY..clHhUmNxWUWkYwO33pNZxei6iPo</link>  
+      <guid isPermaLink="true">http://codezine.jp/article/detail/8307</guid>  
+      <pubDate>Tue, 30 Dec 2014 14:00:00 +0900</pubDate>  
+      <description><![CDATA[<p>　この連載は、マンガで分かるプログラミング用語辞典です。気軽に読み流せるマンガと、テキストによる詳しい解説で、プログラミング未経験者がつまづきがちな専門用語・概念をやさしく読み解き、よりスムーズな学習を手助けします。市販のプログラミング入門書の副教材としてもぜひご活用ください。今回解説するのは、正規表現における「任意の1文字」の表し方です。
+
+
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/DlzMEkU2485N/d1f3c8c2dc990d44afdc7578989d2d18"/></p>]]></description> 
+    </item>  
+    <item> 
+      <title>拡張機能を利用してVisual Studioをより便利にしよう</title>  
+      <link>http://rss.rssad.jp/rss/artclk/DlzMEkU2485N/da13c9ab5257482ed3c3719defd47e3c?ul=q2iriXEK7JC.v6.Z3t8HXv0Jl7O_cqq7817eK2Js0fkx6NJ7D9zMpYs9C0i65VWqB1cqniF</link>  
+      <guid isPermaLink="true">http://codezine.jp/article/detail/8318</guid>  
+      <pubDate>Fri, 26 Dec 2014 14:00:00 +0900</pubDate>  
+      <description><![CDATA[<p>　Visual Studioはインストール直後の状態でも数多くの機能が搭載されており、非常に便利に使えます。しかし、使っていると「あれができれば」「これがもっと簡単にできないのか」といった不満が段々と出てくるものです。あなたのそういった不満は、もしかしたら「拡張機能」を利用すれば解決できるかもしれません。本記事では「Visual Studio Gallery」で公開されている拡張機能のいくつかについて、その機能、活用法を紹介します。
+
+
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/DlzMEkU2485N/da13c9ab5257482ed3c3719defd47e3c"/></p>]]></description> 
+    </item>  
+    <item> 
+      <title>Visual StudioでDB連携も簡単プログラミング ～知っておきたいLINQメソッド式＆ラムダ式</title>  
+      <link>http://rss.rssad.jp/rss/artclk/DlzMEkU2485N/01c5103b8be42d56909ba1126af18a01?ul=YZWY6ov6ZRA0gBNmyfxgXx0wEo2hPgEtkdnoml4_umZr9oktXp.yKlqb0T9_9j14YQZkz2w</link>  
+      <guid isPermaLink="true">http://codezine.jp/article/detail/8312</guid>  
+      <pubDate>Fri, 26 Dec 2014 14:00:00 +0900</pubDate>  
+      <description><![CDATA[<p>　.NET Framework 3.5から導入されたLINQ（Language INtegrated Query：統合言語クエリ）、活用していますか？ ぱっと見の構文の目新しさに気を取られ、「また何か新しい文法を覚えなくてはいけないのか……」と敬遠しがちかもしれません。また、「シンプルな構文でクエリが書けるのは便利そうだけど、別にこれまでの方法で書いても問題無いのでは？」「なんだかパズルっぽい使い方ばかりで、実業務にどう活用できるのかイメージが湧かない」という意見もあるでしょう。LINQの持つポテンシャルは大変高く、特にデータベースとの連携においては非常に強力な仕方でコーディングをサポートしてくれます。本連載では、データベースプログラミングにおいてLINQをどのように活用できるのか、解説していきます。
+
+
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/DlzMEkU2485N/01c5103b8be42d56909ba1126af18a01"/></p>]]></description> 
+    </item>  
+    <item> 
+      <title>「Ruby 2.2.0」がリリース、Rails 5.0で必須となるSymbol GCを搭載</title>  
+      <link>http://rss.rssad.jp/rss/artclk/DlzMEkU2485N/ae48108282cb39c79add8ce408144541?ul=eniL96OUR3vxrtX2mIlZRXHQswplf0PGOgvgeucEqr6RYIZGBNcQTuMK09mj7a538TIgWOl</link>  
+      <guid isPermaLink="true">http://codezine.jp/article/detail/8393</guid>  
+      <pubDate>Fri, 26 Dec 2014 12:05:00 +0900</pubDate>  
+      <description><![CDATA[<p>　まつもとゆきひろ氏は、プログラミング言語Rubyの最新版「Ruby 2.2.0」を、12月25日にリリースした。
+
+
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/DlzMEkU2485N/ae48108282cb39c79add8ce408144541"/></p>]]></description> 
+    </item>  
+    <item> 
+      <title>「デブサミ2015」の参加受付がスタート、基調講演はドワンゴ川上量生氏</title>  
+      <link>http://rss.rssad.jp/rss/artclk/DlzMEkU2485N/cad399515da681e9386090180bcae90e?ul=HMDMw5ahU4zpiQ_LeG_7P9.OO98ectbCgXAKyDv5eWWR6SLCY5U9yeLc2sOj8xPByV4ttpI</link>  
+      <guid isPermaLink="true">http://codezine.jp/article/detail/8389</guid>  
+      <pubDate>Thu, 25 Dec 2014 20:25:00 +0900</pubDate>  
+      <description><![CDATA[<p>　翔泳社主催の総合ITカンファレンス「Developers Summit 2015」（以下、デブサミ2015）が、本日参加受付をスタートし、申し込みサイトを公開した。2015年2月19～20日の2日間にかけて、目黒雅叙園（東京・目黒）にて開催される。参加は無料で、事前登録制。今回で通算13回目で、毎回3000名を超える参加者を集めている。
+
+
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/DlzMEkU2485N/cad399515da681e9386090180bcae90e"/></p>]]></description> 
+    </item>  
+    <item> 
+      <title>テキストファイルをExcelのワークシートに変換するアプリケーションの作成</title>  
+      <link>http://rss.rssad.jp/rss/artclk/DlzMEkU2485N/a58a02c758aedc8ba1ff64c7a20e9a1f?ul=0CRUgmVZs3moye18ETCAf0cuhHZ.n8ZQvnDtXAEm7L8llahQpBSBTtv9dRSmw4T3Ag_El37</link>  
+      <guid isPermaLink="true">http://codezine.jp/article/detail/8364</guid>  
+      <pubDate>Thu, 25 Dec 2014 16:25:00 +0900</pubDate>  
+      <description><![CDATA[<p>　「ComponentOne Studio」に含まれるC1XLBookコンポーネントを使って、既存のテキストファイルをExcelのワークシートに変換するアプリケーションを作成してみます。
+
+
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/DlzMEkU2485N/a58a02c758aedc8ba1ff64c7a20e9a1f"/></p>]]></description> 
+    </item>  
+    <item> 
+      <title>ニッチでエッジな技術本をゲットしよう！ 第2弾　～IT技術者向けコミケ 気になるサークル編（2014年冬版）</title>  
+      <link>http://rss.rssad.jp/rss/artclk/DlzMEkU2485N/92c2b62c7728063d709b839774b20450?ul=WIN6nqIwtqglFC7DYbMusjxFnmP46RRYmKPIZK6.BeHyn.4YkfF27SLGJ.bMPblXezl8fVT</link>  
+      <guid isPermaLink="true">http://codezine.jp/article/detail/8375</guid>  
+      <pubDate>Thu, 25 Dec 2014 16:20:00 +0900</pubDate>  
+      <description><![CDATA[<p>　日本最大の同人誌即売会「コミックマーケット」（通称コミケ）には、マンガだけでなく、様々な同人誌が集まります。その中には、IT技術系の同人誌も存在します。それも普通の本屋にはない、ニッチでエッジな本です。というわけで、前回は、そういったコミケの技術系同人誌を入手する方法を紹介しました。今回は、どんな本があるかを、新刊情報を中心に紹介します。
+
+
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/DlzMEkU2485N/92c2b62c7728063d709b839774b20450"/></p>]]></description> 
+    </item>  
+    <item> 
+      <title>GNU AWKでCSVファイルを楽々あつかう組込変数FPATと、関数のインダイレクト呼び出し</title>  
+      <link>http://rss.rssad.jp/rss/artclk/DlzMEkU2485N/e23bedc56aa2d959c90b939a2a1b9edf?ul=OlG7UWGIEvZT_5_3DaaFX1vwQesjDivOEpZx7LtlB2rQfmfO.SMajosKV_cHDreJi0X7iTi</link>  
+      <guid isPermaLink="true">http://codezine.jp/article/detail/8323</guid>  
+      <pubDate>Thu, 25 Dec 2014 14:00:00 +0900</pubDate>  
+      <description><![CDATA[<p>　AWKはレコードセパレーター（RS）に従いレコードを分割し、フィールドセパレーター（FS）に従いフィールドに分割する言語ですが、この手法ではCSVファイルでフィールド内にカンマを含むような場合に処理を行うことが困難でした。そこでGNU AWKでは新たに組込変数FPAT（フィールドパターン）というものを導入することで簡単に扱えるようになりました。今回はこの組込変数FPATを中心に解説していきます。
+
+
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/DlzMEkU2485N/e23bedc56aa2d959c90b939a2a1b9edf"/></p>]]></description> 
+    </item>  
+    <item> 
+      <title>いまさら聞けないモバイルとIPv6ネットワークのアレコレ（中編）～モバイル端末の移動によるIPv6アドレスの変化を確かめる</title>  
+      <link>http://rss.rssad.jp/rss/artclk/DlzMEkU2485N/9deee33b82a7f9d88f0aaee668267188?ul=xLLD0.Dfa1TalfxJhTGde02gQO.4Ym_HweswWuwjqC4v0PnHZc.4Cx_e9n4uaGG5Ede1D9.</link>  
+      <guid isPermaLink="true">http://codezine.jp/article/detail/8265</guid>  
+      <pubDate>Thu, 25 Dec 2014 14:00:00 +0900</pubDate>  
+      <description><![CDATA[<p>　本連載では、さくらインターネット研究所の独自調査に基づき、クラウド時代に必要となるネットワーク仮想化とその在り方についてご紹介します。今回は『いまさら聞けないモバイルとIPv6ネットワークのアレコレ（中編）』として、モバイル端末の移動によるIPv6アドレスの変化を実際に確かめてみましょう。
+
+
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/DlzMEkU2485N/9deee33b82a7f9d88f0aaee668267188"/></p>]]></description> 
+    </item>  
+    <item> 
+      <title>まとめてチェック！ 2014年に話題となった技術トピック ～Swift、Docker、AngularJS…… CodeZineの人気記事で振り返る</title>  
+      <link>http://rss.rssad.jp/rss/artclk/DlzMEkU2485N/79c264bf9a60f41c9e19cfb5ac4fcdda?ul=8vYSpK_ZsNjDBHkt_chRCi08VIJZkqY3O9y8DhGV48U5QWM3ot.VetJY20t5VFBLv8Zdo20</link>  
+      <guid isPermaLink="true">http://codezine.jp/article/detail/8388</guid>  
+      <pubDate>Thu, 25 Dec 2014 13:00:00 +0900</pubDate>  
+      <description><![CDATA[<p>　いよいよ今年もあと一週間ですね。CodeZineで今年人気のあった記事やニュースを振り返りながら、2014年の技術トピックをおさらいしましょう。
+
+
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/DlzMEkU2485N/79c264bf9a60f41c9e19cfb5ac4fcdda"/></p>]]></description> 
+    </item>  
+    <item> 
+      <title>翔泳社の技術書、28タイトルのPDF版をSEShopと達人出版会にて販売開始、「徹底入門」「逆引き」シリーズなど</title>  
+      <link>http://rss.rssad.jp/rss/artclk/DlzMEkU2485N/6c1b3f53473a61230b4243abc2b4e9bb?ul=8qhVSt0McyIBlk4WPpY8bT_CWCR2egESIAfRgOmqvoncyj.SmW.LG.AJYZFzLwUPpQC0MNJ</link>  
+      <guid isPermaLink="true">http://codezine.jp/article/detail/8387</guid>  
+      <pubDate>Wed, 24 Dec 2014 18:05:00 +0900</pubDate>  
+      <description><![CDATA[<p>　翔泳社では、コンピュータ技術書28タイトルのPDF版電子書籍の販売を、同社直販サイト「SEshop.com」と、IT系の技術書籍をPDF・EPUBの電子書籍として販売する「達人出版会」にて開始しました。また、2015年1月21日までの間、SEshop.comで購入すると30％ポイントが還元されるキャンペーンを行います。
+
+
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/DlzMEkU2485N/6c1b3f53473a61230b4243abc2b4e9bb"/></p>]]></description> 
+    </item>  
+    <item> 
+      <title>「Live2D」の開発ツールがWebGLに対応、スマホのブラウザ上で2Dキャラがぬるぬる動くアプリが作れる</title>  
+      <link>http://rss.rssad.jp/rss/artclk/DlzMEkU2485N/d53ca2dda4df9ab9542b2540260d1b4b?ul=I4cjfxqDsmUmvhwdR5hhzyunDKxG09T.ekWL12v245kQfyq.n4tqWawECSdWjICeLsSa8jw</link>  
+      <guid isPermaLink="true">http://codezine.jp/article/detail/8386</guid>  
+      <pubDate>Wed, 24 Dec 2014 14:50:00 +0900</pubDate>  
+      <description><![CDATA[<p>　Live2Dは、同社が提供する2Dキャラクターを立体的に表現する技術「Live2D」の開発ツール「Live2D Cubism SDK」がWebGLに対応したことを、12月18日に発表した。
+
+
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/DlzMEkU2485N/d53ca2dda4df9ab9542b2540260d1b4b"/></p>]]></description> 
+    </item>  
+    <item> 
+      <title>Azure：プレミアムストレージ、RemoteApp、SQLデータベース更新、ライブメディアストリーミング、検索など</title>  
+      <link>http://rss.rssad.jp/rss/artclk/DlzMEkU2485N/c3793baa09c02a4de8dd14bd5a51727d?ul=GSpsHOjqDquAaglQoZxRCqPQLMnvj_S48Tm0Lxhp4hteRQ44ACm2BQ4DHM0ejgKXs654Viq</link>  
+      <guid isPermaLink="true">http://codezine.jp/article/detail/8370</guid>  
+      <pubDate>Wed, 24 Dec 2014 14:00:00 +0900</pubDate>  
+      <description><![CDATA[<p>　本稿は、Scott Guthrie氏のブログを、氏の許可を得て、翻訳、転載したものです。米Microsoft社の副社長で、ASP.NETやSilverlightの開発チームを統率する氏のブログでは、次期製品を含む最新の技術をいち早く紹介しています。
+
+
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/DlzMEkU2485N/c3793baa09c02a4de8dd14bd5a51727d"/></p>]]></description> 
+    </item>  
+    <item> 
+      <title>構築・運用の必須知識！ Herokuアプリケーションの実行プラットフォーム「Dyno」を徹底的に理解する</title>  
+      <link>http://rss.rssad.jp/rss/artclk/DlzMEkU2485N/cdd2d05d2b45e795ddb4ada2c83ee7dc?ul=bDK6wiTNP3QG727uUn_jcJHYrHatqtTB8YezaaEdIejYfPfB1IqU3n1bPcLP0BAZWpmqBdb</link>  
+      <guid isPermaLink="true">http://codezine.jp/article/detail/8344</guid>  
+      <pubDate>Wed, 24 Dec 2014 14:00:00 +0900</pubDate>  
+      <description><![CDATA[<p>　前回はHeroku上でデータベース（PostgreSQL）を使用したアプリケーションを作成する方法について解説しました。今回はアプリケーション開発から少し離れて、Herokuの中心的概念である「Dyno」について詳細に説明します。
+
+
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/DlzMEkU2485N/cdd2d05d2b45e795ddb4ada2c83ee7dc"/></p>]]></description> 
+    </item>  
+    <item> 
+      <title>WebRTCをテーマにした日本初のカンファレンス「WebRTC Conference Japan」を2015年2月に開催</title>  
+      <link>http://rss.rssad.jp/rss/artclk/DlzMEkU2485N/0af94f1229599702cba029b50b40f81e?ul=omPLmMOIHY5z3h.LzWL3oFWxOpS5ITGwNVNlGSarPv6xcimwMUH_8q2XIuakmX_OfbJs7nC</link>  
+      <guid isPermaLink="true">http://codezine.jp/article/detail/8385</guid>  
+      <pubDate>Wed, 24 Dec 2014 13:50:00 +0900</pubDate>  
+      <description><![CDATA[<p>　WebRTC Conference Japan実行委員会は、日本初のWebRTCをテーマにしたカンファレンス「WebRTC Conference Japan」を、2015年2月5日～6日に、ソラシティ カンファレンスセンター（東京・御茶ノ水）にて開催する。
+
+
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/DlzMEkU2485N/0af94f1229599702cba029b50b40f81e"/></p>]]></description> 
+    </item>  
+    <item> 
+      <title>ドワンゴ、「アスキードワンゴ」ブランドでIT技術書の刊行継続へ、来春に2タイトルを発売予定</title>  
+      <link>http://rss.rssad.jp/rss/artclk/DlzMEkU2485N/2eca3d409ecb85a9f9396195dd656338?ul=A1H4tBxiWhI0Id.JT6khvtRcrJUVQUwDnMVxKY4f2I77rJQDMcCIYjyPGjfTeCgHmRa8B4Z</link>  
+      <guid isPermaLink="true">http://codezine.jp/article/detail/8384</guid>  
+      <pubDate>Wed, 24 Dec 2014 11:50:00 +0900</pubDate>  
+      <description><![CDATA[<p>　ドワンゴは、KADOKAWAのブランドカンパニーであるアスキー・メディアワークスから、「アスキー」ブランドのIT技術書を出版してきたハイエンド書籍編集部をドワンゴに引き継ぎ、「アスキードワンゴ（ASCII DWANGO）」という新たなブランドを立ち上げると発表した。
+
+
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/DlzMEkU2485N/2eca3d409ecb85a9f9396195dd656338"/></p>]]></description> 
+    </item>  
+    <item> 
+      <title>クリエーションライン、SoftLayerのAPIを活用したポータルサービス「SETTA」の提供を開始</title>  
+      <link>http://rss.rssad.jp/rss/artclk/DlzMEkU2485N/0452b8149568de5e36be8048a7e0bdc8?ul=k5fMNhl6T6935gfAuNZRxV0FUPjXVVxoCRdoZpBDYydDCycoQjWfv6vwU.UpMsEyFBWRLDH</link>  
+      <guid isPermaLink="true">http://codezine.jp/article/detail/8380</guid>  
+      <pubDate>Mon, 22 Dec 2014 14:18:00 +0900</pubDate>  
+      <description><![CDATA[<p>　クリエーションラインは、日本IBMが提供するクラウドサービス「SoftLayer」のAPIを活用した、日本語によるポータルサービス「SETTA（セッタ）」の提供を、2015年1月12日に開始する。初期費用は無料で、月額料金は9500円～。
+
+
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/DlzMEkU2485N/0452b8149568de5e36be8048a7e0bdc8"/></p>]]></description> 
+    </item>  
+    <item> 
+      <title>AngularJSの強力なデータバインディングの肝となる！ スコープを理解して、独特な開発スタイルを自分のものにしよう</title>  
+      <link>http://rss.rssad.jp/rss/artclk/DlzMEkU2485N/e36606e1f4929376df31c223e0f96d46?ul=pKUeOT.Gq3VjaEM9zebrYiDctbpxqvRN_h2zl_tLIpcqA4FNsJ2WH7cicJ0wdDDCuz4L68E</link>  
+      <guid isPermaLink="true">http://codezine.jp/article/detail/8311</guid>  
+      <pubDate>Mon, 22 Dec 2014 14:00:00 +0900</pubDate>  
+      <description><![CDATA[<p>　本連載は、JavaScriptのMVCフレームワークである、AngularJSを使った開発の解説記事です。前回に引き続き、AngularJSを使ってタスク管理をする1つのサンプルアプリケーションを通じて、その構造の理解や開発の流れなどを紹介します。今回は、コントローラ間のデータ連携を中心に説明します。
+
+
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/DlzMEkU2485N/e36606e1f4929376df31c223e0f96d46"/></p>]]></description> 
+    </item>  
+    <item> 
+      <title>IBM、日本初のSoftLayerクラウド・データセンターを東京に開設</title>  
+      <link>http://rss.rssad.jp/rss/artclk/DlzMEkU2485N/715be0375094154b4facea6039145c0a?ul=Gks16GH_2WIsMG4zRIb5MzKCY9Z30Yvqh392t3kW0j6SUmlqVZ2b8SwXPxoKOCmOOZawLE0</link>  
+      <guid isPermaLink="true">http://codezine.jp/article/detail/8379</guid>  
+      <pubDate>Mon, 22 Dec 2014 13:35:00 +0900</pubDate>  
+      <description><![CDATA[<p>　米IBMは、日本初のSoftLayerクラウド・データセンター「SoftLayer東京データセンター」を、12月22日に東京で開設した。
+
+
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/DlzMEkU2485N/715be0375094154b4facea6039145c0a"/></p>]]></description> 
+    </item>  
+    <item> 
+      <title>総務省、社会人向けにデータサイエンスの無料オンライン講座を開設</title>  
+      <link>http://rss.rssad.jp/rss/artclk/DlzMEkU2485N/dd487207454a9a5f512b690c7003b784?ul=RebPbMv9bk7Aq7go8MGkHnMJNNAbOHRrjg_8SjCLQH3wSXjrzxwMmnvlNwcshvnCmb0JBAr</link>  
+      <guid isPermaLink="true">http://codezine.jp/article/detail/8376</guid>  
+      <pubDate>Mon, 22 Dec 2014 11:25:00 +0900</pubDate>  
+      <description><![CDATA[<p>　総務省は、Web上で誰でも参加可能なオンライン講義「データサイエンス・オンライン講座」を開設するとともに、講座の第1弾「社会人のためのデータサイエンス入門」の受講者の募集を、12月19日に開始した。講座の開講予定は2015年3月17日。
+
+
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/DlzMEkU2485N/dd487207454a9a5f512b690c7003b784"/></p>]]></description> 
+    </item> 
+  </channel> 
+</rss>
